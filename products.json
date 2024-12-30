@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Lira Earrings",
+      "description": "Elegant and timeless earrings crafted with high-quality sterling silver and adorned with cubic zirconia for a touch of sparkle. Perfect for both casual and formal occasions.",
+      "price": 49.99,
+      "category": "Jewelry",
+      "sku": "LE-001",
+      "stock": 120
+    },
+    {
+      "id": 2,
+      "title": "Hal Earrings",
+      "description": "Minimalist earrings designed with a sleek gold finish, offering a sophisticated and modern look. Lightweight and comfortable for everyday wear.",
+      "price": 39.99,
+      "category": "Jewelry",
+      "sku": "HE-102",
+      "stock": 85
+    },
+    {
+      "id": 3,
+      "title": "Kaede Hair Pin Set of 3",
+      "description": "A beautiful set of three hair pins featuring intricate floral designs, made with durable metal and enamel coating. Adds a touch of elegance to any hairstyle.",
+      "price": 24.99,
+      "category": "Accessories",
+      "sku": "KP-200",
+      "stock": 150
+    },
+    {
+      "id": 4,
+      "title": "Hair Pin Set of 3",
+      "description": "Classic hair pins in a simple yet stylish design, ideal for keeping your hair in place while complementing your outfit. Made from high-quality materials for long-lasting use.",
+      "price": 19.99,
+      "category": "Accessories",
+      "sku": "HP-305",
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "title": "Plain Necklace",
+      "description": "A sleek and understated necklace made from premium stainless steel with a polished finish. A versatile piece that pairs well with any attire.",
+      "price": 29.99,
+      "category": "Jewelry",
+      "sku": "PN-150",
+      "stock": 200
+    },
+    {
+      "id": 6,
+      "title": "Yuki Hair Pin Set of 3",
+      "description": "Chic and decorative hair pins inspired by traditional Japanese aesthetics, crafted with fine detailing. Perfect for special occasions or as a unique gift.",
+      "price": 22.99,
+      "category": "Accessories",
+      "sku": "YKP-450",
+      "stock": 180
+    }
+  ]
+}
