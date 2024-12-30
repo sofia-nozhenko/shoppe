@@ -2,15 +2,21 @@
   "slides": [
     {
       "id": 1,
-      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-2.png"
+      "title": "Exquisite Craftsmanship",
+      "description": "Discover the elegance of fine jewelry, expertly crafted with precision and passion. Our collection features timeless pieces designed to make every occasion unforgettable. From classic gold rings to modern diamond necklaces, we offer a variety of styles for every taste",
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/slides/slide-1.jpg"
     },
     {
       "id": 2,
-      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-3.png"
+      "title": "The Perfect Gift",
+      "description": "Looking for the perfect gift? Our curated collection of jewelry makes every moment special. Whether it’s a birthday, anniversary, or just because, give the gift of beauty with our luxurious selection of rings, bracelets, and necklaces.",
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/slides/slide-2.jpg"
     },
     {
       "id": 3,
-      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-4.png"
+      "title": "Exclusive Offers",
+      "description": "Get access to exclusive offers and limited-edition pieces. Sign up for our newsletter and be the first to know about new arrivals, sales, and special promotions. Elevate your style without breaking the bank!",
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/slides/slide-3.jpg"
     }
   ]
 }
