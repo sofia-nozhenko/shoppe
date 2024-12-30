@@ -7,7 +7,8 @@
       "price": 49.99,
       "category": "Jewelry",
       "sku": "LE-001",
-      "stock": 120
+      "stock": 120,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-2.png"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "price": 39.99,
       "category": "Jewelry",
       "sku": "HE-102",
-      "stock": 85
+      "stock": 85,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-3.png"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "price": 24.99,
       "category": "Accessories",
       "sku": "KP-200",
-      "stock": 150
+      "stock": 150,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-4.png"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "price": 19.99,
       "category": "Accessories",
       "sku": "HP-305",
-      "stock": 100
+      "stock": 100,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-5.png"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "price": 29.99,
       "category": "Jewelry",
       "sku": "PN-150",
-      "stock": 200
+      "stock": 200,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-6.png"
     },
     {
       "id": 6,
@@ -52,7 +57,18 @@
       "price": 22.99,
       "category": "Accessories",
       "sku": "YKP-450",
-      "stock": 180
+      "stock": 180,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-7.png"
+    },
+    {
+      "id": 7,
+      "title": "Elegant 18K Gold Ring",
+      "description": "A luxurious 18K gold ring with intricate designs, perfect for adding a touch of sophistication to any outfit. Crafted with precision, this ring is a timeless piece that makes for an unforgettable gift or a special treat for yourself.",
+      "price": 129.99,
+      "category": "Jewelry",
+      "sku": "GR-789",
+      "stock": 50,
+      "thumbnail": "https://raw.githubusercontent.com/sofia-nozhenko/shoppe/refs/heads/main/products/product-1.jpg"
     }
   ]
 }
